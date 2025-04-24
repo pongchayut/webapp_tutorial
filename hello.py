@@ -6,7 +6,7 @@ app = dash.Dash(__name__)
 
 # Define the layout
 app.layout = html.Div(children=[
-    html.H1('Hello, World!')
+    html.H1('みんな、なにが好き？')
 ])
 
 # Run the app
